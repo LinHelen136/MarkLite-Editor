@@ -58,25 +58,25 @@ During the editing process, thanks to helper assists, you don't have to worry ab
 
 Features
 <br>
-- Support night mode, as well as a variety of topics
+-Support night mode, as well as a variety of topics
 <br>
-- Support for opening md files from other apps
+-Support for opening md files from other apps
 <br>
-- The code block is internally highlighted with a variety of styles
+-The code block is internally highlighted with a variety of styles
 <br>
-- iPad with screen preview, iPhone slide switch editing preview
+-iPad with screen preview, iPhone slide switch editing preview
 <br>
-- Support iCloud storage, can share files on different devices
+-Support iCloud storage, can share files on different devices
 <br>
 -Can export multiple formats, PDF, Web pages, pictures, etc.
 <br>
-- Insert a picture with one click and upload it to the picture bed
+-Insert a picture with one click and upload it to the picture bed
 <br>
-- Fast rendering, support for multiple CSS
+-Fast rendering, support for multiple CSS
 <br>
-- Standard Markdown syntax and extended syntax
+-Standard Markdown syntax and extended syntax
 <br>
-- Keyboard toolbar auxiliary input
+-Keyboard toolbar auxiliary input
 <br>
 
 ### User Information
